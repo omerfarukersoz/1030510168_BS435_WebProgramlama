@@ -1,1 +1,5 @@
-# 1030510168_BS435_WebProgramlama
+Öğrenci Numarası: 1030510168
+
+Öğrenci Adı: Ömer Faruk Ersöz
+
+Ders Adı: BS441 Web Programlama
